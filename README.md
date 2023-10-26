@@ -1,8 +1,8 @@
-Hello! 
+Hello 👋
 
-I'm Kashaf Shoukat.
+I am Self taught web developer.
 
-🔭 I’m currently working on MERN Stack
+🔭 I’m currently working on MERN Stack. Also  Working on multiple frontend and some of backend projects.
 
 🌱 I’m currently learning MERN Stack.
 
